@@ -2,7 +2,9 @@ body {
   background: #d3d3d3;
   font-family: helvitica;
 }
-
+.content-contact{
+  text-align: center;
+}
 .container{
   
 }
