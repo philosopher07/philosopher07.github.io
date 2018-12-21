@@ -9,6 +9,10 @@ body {
   border-radius:15px;
   margin:auto;
   max-width:1040px;
+  padding-top: 10px;
+  padding-right: 150px;
+  padding-left: 150px;
+  padding-bottom: 10px;
 }
   
 }
