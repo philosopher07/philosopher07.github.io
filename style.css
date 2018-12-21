@@ -1,11 +1,12 @@
 body {
   font-family: helvitica;
-}
+  }
 .content-contact{
   text-align:left;
 }
 .container{
   background: #d3d3d3;
+  text-align:center;
 }
   
 }
